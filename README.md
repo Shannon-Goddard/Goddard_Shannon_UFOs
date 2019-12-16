@@ -6,7 +6,7 @@
 [Objectives](#objectives)  
 [Summary](#summary)  
 [Challenge Overview](#challenge-overview)  
-[Challenge Objectives](#challenge-objectives)
+[Challenge Objectives](#challenge-objectives)  
 [Challenge Summary](#challenge-summary)  
 [Limitations](#limitations)
 
