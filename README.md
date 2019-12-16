@@ -1,10 +1,21 @@
 # Goddard_Shannon_UFOs  
+#### Table of Contents
+
+[Project Overview](#project-overview)  
+[Resources](#resources)  
+[Objectives](#objectives)  
+[Summary](#summary)  
+[Challenge Overview](#challenge-overview)  
+[Challenge Objectives](#challenge-objectives)
+[Challenge Summary](#challenge-summary)  
+[Limitations](#limitations)
 
 
-
-## Summary
+## Project Overview
 In this module, we’ll build a table using data stored in a JavaScript array. We’ll also create filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing.
 We’ll customize our webpage using Bootstrap, and equip our table with several fully functional filters that will allow users to interact with our visualizations  
+
+## Resources
 
 ## Objectives
 By the end of this module, we will be able to: 
@@ -13,19 +24,20 @@ By the end of this module, we will be able to:
 - Build and deploy JavaScript functions, including built-in functions. 
 - Convert JavaScript functions to arrow functions. 
 - Build and deploy forEach (JavaScript for loop). 
-- Create, populate, and dynamically filter a table using JavaScript and HTML.
+- Create, populate, and dynamically filter a table using JavaScript and HTML.  
 
+## Summary
 
-
-
-## Challenge Summary
+## Challenge Overview
 In this challenge, we will create additional filters for the webpage. The advanced filtering capability will allow users to filter the data by multiple factors.  
 
-## Objectives  
+## Challenge Objectives  
 The goals of this challenge are to:
 - Create, update, and deploy JavaScript functions to provide additional table filters.
 - Update and deploy forEach (for loop) to loop through the filters and update them with user input.
-- Update and populate the dynamic filters and table using JavaScript and HTML.
+- Update and populate the dynamic filters and table using JavaScript and HTML.  
+
+## Challenge Summary
 
 ## Instructions  
 Include five total filters in the table:
@@ -48,4 +60,6 @@ Set the filtered data to the table.
 Make sure your repo is up to date and includes the following:
 A README.md file containing a short description of your project
 The completed code saved in the proper folder structure. Hint: Make sure your JavaScript file is saved as app.js 
-A clean website with a functioning filter table
+A clean website with a functioning filter table  
+
+## Limitations
