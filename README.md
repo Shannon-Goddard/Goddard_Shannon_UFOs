@@ -16,7 +16,7 @@ In this module, we’ll build a table using data stored in a JavaScript array. W
 We’ll customize our webpage using Bootstrap, and equip our table with several fully functional filters that will allow users to interact with our visualizations  
 
 ## Resources  
-- **Data Source:** [data.js]() 
+- **Data Source:** [data.js](/static/js/data.js) 
 - **Software:** VS Code
 
 ## Objectives
