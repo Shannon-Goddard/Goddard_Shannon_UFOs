@@ -36,7 +36,8 @@ We customized our webpage using Bootstrap, and equip our table with several full
 </p>
 <p align="center">
   <img width="900" height="400" src="/pics/filter.png">
-</p>
+</p>  
+
 ## Challenge Overview
 In this challenge, we created additional filters for the webpage. The advanced filtering capability allows users to filter the data by multiple factors.  
 
