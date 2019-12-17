@@ -1,4 +1,6 @@
-# Goddard_Shannon_UFOs  
+<p align="center">
+  <img width="700" height="300" src="/pics/header.png">
+</p> 
 #### Table of Contents
 
 [Project Overview](#project-overview)  
@@ -28,8 +30,12 @@ We customized our webpage using Bootstrap, and equip our table with several full
 - Create, populate, and dynamically filter a table using JavaScript and HTML.  
 
 ## Summary  
-In this module, we created a table to organize UFO data that is stored as a JavaScript array, or list. This table has the ability to filter data based on certain criteria and was created using JavaScript as the primary coding language
-
+<p align="center">
+  <img width="700" height="300" src="/pics/filter.png">
+</p>
+<p align="center">
+  <img width="700" height="300" src="/pics/webpage.png">
+</p>
 ## Challenge Overview
 In this challenge, we created additional filters for the webpage. The advanced filtering capability allows users to filter the data by multiple factors.  
 
