@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="900" height="250" src="/pics/header.png">
-</p> 
+  <img width="900" height="200" src="/pics/header.png">
+</p>  
+
 #### Table of Contents
 
 [Project Overview](#project-overview)  
