@@ -72,4 +72,6 @@ Because ES has provided standardization for JavaScript, it also brings updates t
 
 Later editions of ECMAScript brought about new additions as well, but they are for more advanced uses of the language. In this module, our focus was on basic JavaScript and ES6 capabilities such as arrow functions. Both are still used today.  
 
-There are guidelines and requirements for writing JavaScript. But because JavaScript can be added to an HTML page, there are more guidelines and requirements than for languages that can only live in a .js file or Jupyter notebook such as Python.
+There are guidelines and requirements for writing JavaScript. But because JavaScript can be added to an HTML page, there are more guidelines and requirements than for languages that can only live in a .js file or Jupyter notebook such as Python.  
+
+A recommendation for further development...
