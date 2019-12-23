@@ -57,7 +57,8 @@ In this challenge, we created additional filters for the webpage. The advanced f
 - Update and deploy forEach (for loop) to loop through the filters and update them with user input.
 - Update and populate the dynamic filters and table using JavaScript and HTML.  
 
-## Challenge Summary
+## Challenge Summary  
+<img align="right" width="500" height="250" src="/pics/challenge1.png">
 
 ## Instructions  
 Include five total filters in the table:
@@ -75,7 +76,7 @@ Set the filtered data to the table.
 - Loop through all of the filters and keep any data that matches the filter values.
 - Rebuild the table by calling the buildTable(); function created earlier.
 - Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
-
+<img align="left" width="500" height="250" src="/pics/challenge1.png">
 ## Submission
   
 
