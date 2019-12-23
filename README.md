@@ -41,7 +41,7 @@ Later editions of ECMAScript brought about new additions as well, but they are f
 
 There are guidelines and requirements for writing JavaScript. But because JavaScript can be added to an HTML page, there are more guidelines and requirements than for languages that can only live in a .js file or Jupyter notebook such as Python.  
 
-Our [app.js](app.js) builds and deploys JavaScript functions, including built-in functions. It convert JavaScript functions to arrow functions and builds and deploys forEach (JavaScript for loop).
+Our [app.js](/static/js/app.js) builds and deploys JavaScript functions, including built-in functions. It convert JavaScript functions to arrow functions and builds and deploys forEach (JavaScript for loop).
 <p align="center">
   <img width="900" height="400" src="/pics/webpage.png">
 </p>
