@@ -68,16 +68,8 @@ Include five total filters in the table:
 - Country
 - Shape  
 
-To create these additional filters, keep the following points in mind:
-- You will need to create a new function that will replace your handleClick(); function. This function saves the element, value, and the id of the filter that was changed. 
-- Create an if-else statement to add filter data from input, or clear the filter if no input data exists.
-- Additionally, create a function named filterTable(); that will perform the following actions: 
-Set the filtered data to the table.
-- Loop through all of the filters and keep any data that matches the filter values.
-- Rebuild the table by calling the buildTable(); function created earlier.
-- Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
-<img align="left" width="500" height="250" src="/pics/challenge1.png">
-## Submission
-  
-
-A recommendation for further development...
+<p align="center">
+  <img width="900" height="400" src="/pics/challenge2.png">
+</p>
+## Limitations  
+A recommendation for further development would be to filter the other columns. Analysis could be done on the Duration of the sightings and/or the Comments for correlation of events. Also, more user friendly input fields could be built. Such as, drop boxes. 
