@@ -60,7 +60,7 @@ In this challenge, we created additional filters for the webpage. The advanced f
 ## Challenge Summary  
 <img align="right" width="500" height="250" src="/pics/challenge1.png">
 
-## Instructions  
+#### Instructions  
 Include five total filters in the table:
 - Date
 - City
@@ -70,6 +70,7 @@ Include five total filters in the table:
 
 <p align="center">
   <img width="900" height="400" src="/pics/challenge2.png">
-</p>
+</p>  
+
 ## Limitations  
 A recommendation for further development would be to filter the other columns. Analysis could be done on the Duration of the sightings and/or the Comments for correlation of events. Also, more user friendly input fields could be built. Such as, drop boxes. 
