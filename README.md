@@ -31,6 +31,17 @@ We customized our webpage using Bootstrap, and equip our table with several full
 - Create, populate, and dynamically filter a table using JavaScript and HTML.  
 
 ## Summary  
+JavaScript is a well-established coding language that was designed to enhance HTML. It’s the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.  
+
+ECMAScript, also referred to as “ES,” is a scripting language designed to help standardize JavaScript. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax.**  
+  
+Because ES has provided standardization for JavaScript, it also brings updates to the language. There have been many updates to ES over the years, though the sixth update was a major one. It’s commonly known as “ES6+”, “ES2015” or “ECMAScript 2015.” This update included many updates to the syntax, which streamlined the code and made it easier to both read and write. Additional, quality of life improvements were implemented as well, such as adding Python-like generators and for...of loops. Even functions were updated and streamlined!  
+
+Later editions of ECMAScript brought about new additions as well, but they are for more advanced uses of the language. In this module, our focus was on basic JavaScript and ES6 capabilities such as arrow functions. Both are still used today.  
+
+There are guidelines and requirements for writing JavaScript. But because JavaScript can be added to an HTML page, there are more guidelines and requirements than for languages that can only live in a .js file or Jupyter notebook such as Python.  
+
+Our [app.js](app.js) builds and deploys JavaScript functions, including built-in functions. It convert JavaScript functions to arrow functions and builds and deploys forEach (JavaScript for loop).
 <p align="center">
   <img width="900" height="400" src="/pics/webpage.png">
 </p>
@@ -66,20 +77,6 @@ Set the filtered data to the table.
 - Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
 
 ## Submission
-Make sure your repo is up to date and includes the following:
-A README.md file containing a short description of your project
-The completed code saved in the proper folder structure. Hint: Make sure your JavaScript file is saved as app.js 
-A clean website with a functioning filter table  
-
-## Limitations  
-JavaScript is a well-established coding language that was designed to enhance HTML. It’s the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.  
-
-ECMAScript, also referred to as “ES,” is a scripting language designed to help standardize JavaScript. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax.**  
-
-Because ES has provided standardization for JavaScript, it also brings updates to the language. There have been many updates to ES over the years, though the sixth update was a major one. It’s commonly known as “ES6+”, “ES2015” or “ECMAScript 2015.” This update included many updates to the syntax, which streamlined the code and made it easier to both read and write. Additional, quality of life improvements were implemented as well, such as adding Python-like generators and for...of loops. Even functions were updated and streamlined!  
-
-Later editions of ECMAScript brought about new additions as well, but they are for more advanced uses of the language. In this module, our focus was on basic JavaScript and ES6 capabilities such as arrow functions. Both are still used today.  
-
-There are guidelines and requirements for writing JavaScript. But because JavaScript can be added to an HTML page, there are more guidelines and requirements than for languages that can only live in a .js file or Jupyter notebook such as Python.  
+  
 
 A recommendation for further development...
