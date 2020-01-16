@@ -11,7 +11,8 @@
 [Challenge Overview](#challenge-overview)  
 [Challenge Objectives](#challenge-objectives)  
 [Challenge Summary](#challenge-summary)  
-[Limitations](#limitations)
+[Limitations](#limitations)  
+[Live Demo](https://shannon-goddard.github.io/Goddard_Shannon_UFOs/)
 
 
 ## Project Overview
@@ -73,4 +74,6 @@ Include five total filters in the table:
 </p>  
 
 ## Limitations  
-A recommendation for further development would be to filter the other columns. Analysis could be done on the Duration of the sightings and/or the Comments for correlation of events. Also, more user friendly input fields could be built. Such as, drop boxes. 
+A recommendation for further development would be to filter the other columns. Analysis could be done on the Duration of the sightings and/or the Comments for correlation of events. Also, more user friendly input fields could be built. Such as, drop boxes.  
+
+## View a [Live Demo](https://shannon-goddard.github.io/Goddard_Shannon_UFOs/) of UFOs
