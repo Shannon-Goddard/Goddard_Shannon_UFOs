@@ -36,7 +36,7 @@ JavaScript is a scripting language that was designed with the purpose to enhance
 
 ECMAScript, also referred to as “ES,” is designed to standardize scripting-languages. JavaScript is the best-known implementation of this standard. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax.**  
   
-ES has had many updates to the language, though the sixth update had a major enhancement to the JavaScript language. It’s commonly known as “ES6+”, “ES2015” or “ECMAScript 2015.” This update included more feaures intended to make software development easier.Some of the features were:  
+ES has had many updates to the language, though the sixth update had a major enhancement to the JavaScript language. It’s commonly known as “ES6+”, “ES2015” or “ECMAScript 2015.” This update included more feaures intended to make software development easier. Some of the features were:  
 
 - developers didn't have to wait for new technology to catch up. Normally, that would be waiting on the user to update their web browser to use the product.  
 
