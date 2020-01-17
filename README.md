@@ -32,7 +32,7 @@ We customized our webpage using Bootstrap, and equip our table with several full
 - Create, populate, and dynamically filter a table using JavaScript and HTML.  
 
 ## Summary  
-JavaScript is a scripting language that was designed with the purpose to enhance HTML. It allows the user implement complex features on web pages, such as maps or graphs. 
+JavaScript is a scripting language that was designed with the purpose to enhance HTML. It allows the user to implement complex features on web pages, such as maps or graphs. 
 
 ECMAScript, also referred to as “ES,” is designed to standardize scripting-languages. JavaScript is the best-known implementation of this standard. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax.**  
   
