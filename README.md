@@ -32,17 +32,21 @@ We customized our webpage using Bootstrap, and equip our table with several full
 - Create, populate, and dynamically filter a table using JavaScript and HTML.  
 
 ## Summary  
-JavaScript is a well-established coding language that was designed to enhance HTML. It’s the backbone of many popular visualization libraries, such as Plotly, and is often used to create custom dashboards. JavaScript also provides a high level of customization: the dashboards built to deliver visual data, such as maps or graphs, can be as simple or complex as needed.  
+JavaScript is a scripting language that was designed with the purpose to enhance HTML. It allows the user implement complex features on web pages, such as maps or graphs. 
 
-ECMAScript, also referred to as “ES,” is a scripting language designed to help standardize JavaScript. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax.**  
+ECMAScript, also referred to as “ES,” is designed to standardize scripting-languages. JavaScript is the best-known implementation of this standard. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax.**  
   
-Because ES has provided standardization for JavaScript, it also brings updates to the language. There have been many updates to ES over the years, though the sixth update was a major one. It’s commonly known as “ES6+”, “ES2015” or “ECMAScript 2015.” This update included many updates to the syntax, which streamlined the code and made it easier to both read and write. Additional, quality of life improvements were implemented as well, such as adding Python-like generators and for...of loops. Even functions were updated and streamlined!  
+ES has had many updates to the language, though the sixth update had a major enhancement to the JavaScript language. It’s commonly known as “ES6+”, “ES2015” or “ECMAScript 2015.” This update included more feaures intended to make software development easier.Some of the features were:  
 
-Later editions of ECMAScript brought about new additions as well, but they are for more advanced uses of the language. In this module, our focus was on basic JavaScript and ES6 capabilities such as arrow functions. Both are still used today.  
+- developers didn't have to wait for new technology to catch up. Normally, that would be waiting on the user to update their web browser to use the product.  
 
-There are guidelines and requirements for writing JavaScript. But because JavaScript can be added to an HTML page, there are more guidelines and requirements than for languages that can only live in a .js file or Jupyter notebook such as Python.  
+- ES6 is backward compatible. The developer can write in any version of ES and the program will run.
 
-Our [app.js](/static/js/app.js) builds and deploys JavaScript functions, including built-in functions. It convert JavaScript functions to arrow functions and builds and deploys forEach (JavaScript for loop).
+- Arrow functions. Abbreviated syntax that made object-oriented code easier to write.  
+  
+The standard set in writing JavaScript code is to keep it consistent. It allows for code clarity. As a developer the readability of our code is the most important thing. It will make projects easier when collaborating or bugs faster to address.
+
+Our [app.js](/static/js/app.js)
 <p align="center">
   <img width="900" height="400" src="/pics/webpage.png">
 </p>
